@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(MArch 2nd, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Megan Hubbard)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we completed the code for a tax calculator application in order for it to work properly.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://meganalisa11.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to calculate the tax amount and tax rate through equations.)
+2. (How to create buttons.)
+3. (How to remove the results from the HTML page when the specified button is pressed.)
 
